@@ -289,6 +289,7 @@
   <commonCommands>CommonCommand.ОстаткиТоваровНаСкладахКоманда</commonCommands>
   <commandGroups>CommandGroup.Информация</commandGroups>
   <commandGroups>CommandGroup.Печать</commandGroups>
+  <constants>Constant.DemoConfDT</constants>
   <constants>Constant.ВыборПровайдераГеопозиционирования</constants>
   <constants>Constant.SSLPOP3</constants>
   <constants>Constant.SSLSMTP</constants>
@@ -334,7 +335,8 @@
   <constants>Constant.ТолькоЗащищеннаяАутентификацияPOP3</constants>
   <constants>Constant.ТолькоЗащищеннаяАутентификацияSMTP</constants>
   <constants>Constant.ОтметкаНаФотоснимкеТекст</constants>
-  <constants>Constant.DemoConfDT</constants>
+  <constants>Constant.Константа</constants>
+  <constants>Constant.Константа1</constants>
   <commonForms>CommonForm.ОбщиеНастройки</commonForms>
   <commonForms>CommonForm.НастройкиМобильногоУстройства</commonForms>
   <commonForms>CommonForm.НастройкаПочты</commonForms>
